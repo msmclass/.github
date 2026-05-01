@@ -23,8 +23,7 @@
 <br/><br/>
 
 <!-- Social / Contact -->
-[![Email](https://img.shields.io/badge/Email-info@msmclass.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@msmclass.in)
-[![Phone](https://img.shields.io/badge/Call-+91_9310962282-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919310962282)
+[![Email](https://img.shields.io/badge/Email-contact@msmclass.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@msmclass.in)
 [![Location](https://img.shields.io/badge/📍_Ghaziabad%2C_UP-India-FF6B35?style=flat-square)](https://maps.google.com)
 [![Since](https://img.shields.io/badge/Founded-2017-blueviolet?style=flat-square)](https://msmclass.in/about)
 
@@ -241,8 +240,8 @@ Our **proprietary AI engine** powers every step of your learning journey:
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_msmclass.in-Visit_Us-1a1a2e?style=for-the-badge)](https://msmclass.in)
-[![Email](https://img.shields.io/badge/📧_Email_Us-info@msmclass.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@msmclass.in)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+91_9310962282-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919310962282)
+[![Email](https://img.shields.io/badge/📧_Email_Us-contact@msmclass.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@msmclass.in)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MSM_Classes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/msmclass)
 [![Instagram](https://img.shields.io/badge/Instagram-@msmclasses-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msmclasses)
 [![YouTube](https://img.shields.io/badge/YouTube-MSM_Classes-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@msmclasses)
