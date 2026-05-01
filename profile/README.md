@@ -243,8 +243,8 @@ Our **proprietary AI engine** powers every step of your learning journey:
 [![Email](https://img.shields.io/badge/📧_Email_Us-contact@msmclass.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@msmclass.in)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MSM_Classes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/msmclass)
-[![Instagram](https://img.shields.io/badge/Instagram-@msmclasses-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msmclasses)
-[![YouTube](https://img.shields.io/badge/YouTube-MSM_Classes-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@msmclasses)
+[![Instagram](https://img.shields.io/badge/Instagram-@msmclas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msmclas)
+[![YouTube](https://img.shields.io/badge/YouTube-MSM_Class-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@msmclass)
 
 <br/>
 

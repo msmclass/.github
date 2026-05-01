@@ -126,8 +126,8 @@ git push origin main
 
 [![Website](https://img.shields.io/badge/msmclass.in-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://msmclass.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/msmclass)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msmclasses)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@msmclasses)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msmclas)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@msmclass)
 
 📍 Aditya Urban Homes, Aditya World City, Bamheta, Ghaziabad, UP — 201002
 
